@@ -1,5 +1,4 @@
-﻿Imports System.Web
-Imports System.Web.Optimization
+﻿Imports System.Web.Optimization
 
 Public Module BundleConfig
     ' バンドルの詳細については、https://go.microsoft.com/fwlink/?LinkId=301862 を参照してください

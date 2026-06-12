@@ -1,5 +1,4 @@
 Imports System.Web.Http
-Imports System.Web.Mvc
 
 Namespace Areas.HelpPage
     Public Class HelpPageAreaRegistration

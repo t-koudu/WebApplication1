@@ -2,15 +2,8 @@
 ' package to your project.
 ''#Const Handle_PageResultOfT = 1
 
-Imports System
-Imports System.Collections
-Imports System.Collections.Generic
-Imports System.Diagnostics
 Imports System.Diagnostics.CodeAnalysis
-Imports System.Linq
 Imports System.Net.Http.Headers
-Imports System.Reflection
-Imports System.Web
 Imports System.Web.Http
 #If Handle_PageResultOfT Then
 Imports System.Web.Http.OData

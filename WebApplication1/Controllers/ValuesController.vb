@@ -1,4 +1,4 @@
-﻿Imports System.Net
+﻿
 Imports System.Web.Http
 
 Public Class ValuesController

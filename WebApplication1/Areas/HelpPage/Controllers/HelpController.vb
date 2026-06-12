@@ -1,8 +1,6 @@
-Imports System
 Imports System.Web.Http
-Imports System.Web.Mvc
-Imports WebApplication1.Areas.HelpPage.Models
 Imports WebApplication1.Areas.HelpPage.ModelDescriptions
+Imports WebApplication1.Areas.HelpPage.Models
 
 Namespace Areas.HelpPage.Controllers
     ''' <summary>

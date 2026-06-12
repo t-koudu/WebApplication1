@@ -1,5 +1,3 @@
-Imports System
-
 Namespace Areas.HelpPage.ModelDescriptions
     Public Class ParameterAnnotation
         Private _annotationAttribute As Attribute
